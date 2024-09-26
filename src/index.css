@@ -1,0 +1,63 @@
+/* external css */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  margin: 0rem 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul{
+  display: flex;
+  list-style: none;
+
+ 
+}
+li{
+  margin-left: 5rem;
+  display: flex;
+  font-size: 1.2rem;
+  margin-top: 0.3rem;
+  /* color: orange; */
+  
+}
+
+
+.active{
+  color: orange;
+}
+
+/* Card */
+/* .card{
+  padding: 10px;
+  border: 2px solid black;
+  width: 200px;
+  margin: 2rem;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0% , 0%, 0%, 0.1);
+  text-align: center;
+} */
+
+
+
+/* .card-image{
+max-width: 80px;
+height: 80px;
+border-radius: 50%;
+object-fit: cover;
+margin-bottom: 1rem;
+}
+
+.card-title{
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+
+.card-desc{
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+} */
