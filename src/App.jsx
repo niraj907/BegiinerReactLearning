@@ -25,6 +25,8 @@ import Memo from './Memo.jsx';
 import Callback from './Callback.jsx';
 import Icon from './Icon.jsx';
 import WebPage from './WebPage.jsx';
+import Axios from './Axios.jsx';
+import AxiosPost from './AxiosPost.jsx';
 function App() {
   return (
     <>
@@ -60,9 +62,11 @@ function App() {
           <Memo/>
           <Callback/>
           <Icon/>
+          <WebPage/>
+          <Axios/>
           */}
    
-          <WebPage/>
+          <AxiosPost/>
     </>
 
   );
